@@ -286,7 +286,7 @@ export function GoogleStyleMap({ language, currentLocation }: GoogleStyleMapProp
               {/* Base satellite map */}
               <div className="absolute inset-0">
                 <ImageWithFallback
-                  src="https://images.unsplash.com/photo-1562709692-b453e8938f5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkZWxoaSUyMGluZGlhJTIwY2l0eSUyMGFlcmlhbCUyMHNhdGVsbGl0ZXxlbnwxfHx8fDE3NTg4NzgxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                  src="https://media.wired.com/photos/59269cd37034dc5f91bec0f1/3:2/w_1920,c_limit/GoogleMapTA.jpg"
                   alt="Delhi Satellite Map View"
                   className="w-full h-full object-cover"
                 />
